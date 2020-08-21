@@ -1,0 +1,10 @@
+
+1) git add .
+
+2) git config --global user.name "Mohamedsaied8"
+
+3) git config --global user.email "infint_hero@hotmail.com
+
+4) git commit -m "added main file"
+
+5) git push -u origin master
