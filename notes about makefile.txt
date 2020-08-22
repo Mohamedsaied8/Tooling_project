@@ -1,0 +1,5 @@
+1) you should extract and put mingw path in environmental variables
+
+2) to run makefile on windows use this command in powersell : mingw32-make -f Makefile.win
+
+3) in writting makefiles take care of tapes and spaces since its tape sensitive
